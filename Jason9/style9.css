@@ -1,0 +1,63 @@
+.left-side .btn.btn-1{
+    background-color:rgba(28, 87,143,1);
+    max-width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 0%;
+    font-size:14px;
+}
+.left-side .btn-2{
+    background-color:rgba(28, 110,184,1);
+    max-width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 0%;
+    font-size:14px;
+    
+}
+.left-side .btn-3{
+    background-color:rgba(28, 138,215,1);
+    max-width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 0%;
+    font-size:14px;
+    
+}
+.left-side{
+    background-color:rgba(225, 225,227,1);
+    
+}
+.icon-1 img,.icon-2 img,.icon-3 img,.icon-4 img,.icon-5 img{
+    width:70px;height:70px;
+    margin-left:70px;
+    
+}
+#icon{
+    display:flex;
+    justify-content:space-evenly;
+    /*flex-direction: column;*/
+}
+.grey{
+    background-color:rgb(225,225,227,1) ;
+    
+    width:100%;
+    margin-left:-30px;
+    padding-left:30px;
+}
+.color{
+    color:rgba(26,159,236,1)
+}
+.personal{
+    margin-left:10px;
+}
+
+
+    
+
+.right-side{
+    width:100%;
+}
+.pers-1,.progress-1,.progress-2,.progress-3{
+    margin-top:30px;
+}
